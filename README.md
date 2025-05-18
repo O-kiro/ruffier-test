@@ -1,5 +1,5 @@
 # ruffier-test
-*ini test gais
+ini test gais
 
 | anme | function |
 |---------|---------|
